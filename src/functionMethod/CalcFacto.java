@@ -16,6 +16,6 @@ public class CalcFacto {
 		int res=facto(num);
 		System.out.println("Factorial of "+ num + " is: "+res);
 
+    System.out.println("Hello");
 	}
-
 }
